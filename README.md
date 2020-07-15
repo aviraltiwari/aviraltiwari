@@ -3,7 +3,7 @@
 #### I'm a Competitive Programmer and a developer, working on front-end and backend related stuff.
 
 
-### ⚡ Fun fact: I also make music listen to my music on SoundCloud 🎸](https://soundcloud.com/aviraltiwari/).
+##### ⚡ Fun fact: I also make music [Listen to my music on SoundCloud 🎸](https://soundcloud.com/aviraltiwari/).
 
 <!--
 **aviraltiwari/aviraltiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
