@@ -1,11 +1,7 @@
-## Hi I'm Aviral Tiwari 👋 
+## Hello 
 
-#### I'm a competitive Programmer and a developer, working on front-end and backend related stuff.
-
-#### My Links
+#### Find Me
 ##### [Linkedin](https://www.linkedin.com/in/aviraltiwarimgmt/) [CodeChef](https://www.codechef.com/users/aviraltiwari)
-
-#### ⚡ Fun fact: I also make music [listen to my music on SoundCloud 🎸](https://soundcloud.com/aviraltiwari/).
 
 <!--
 **aviraltiwari/aviraltiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
